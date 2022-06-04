@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="68754160-58ef-42dc-95bf-6ef452222ade" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lyrical.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/language/lyrical/Lox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/language/lyrical/Scanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/language/lyrical/Token.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/language/lyrical/TokenType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/language/lyrical/Scanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/language/lyrical/Scanner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/language/lyrical/TokenType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/language/lyrical/TokenType.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +46,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1654193541771</updated>
-      <workItem from="1654193542983" duration="4176000" />
+      <workItem from="1654193542983" duration="9589000" />
     </task>
     <servers />
   </component>
